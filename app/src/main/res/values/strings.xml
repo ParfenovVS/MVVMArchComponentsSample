@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMArchComponentsSample</string>
+    <string name="books_loading_error">Books loading error</string>
+</resources>
